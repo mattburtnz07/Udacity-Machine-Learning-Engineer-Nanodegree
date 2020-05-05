@@ -1,5 +1,5 @@
 # Udacity-Machine-Learning-Engineer-Nanodegree
-This repo holds my coursework from the Udacity Machine Learning Engineer Nanodegree. This course covers machine learning from data exploration to model deployment with a focus on using AWS.
+This repo holds my coursework from the Udacity Machine Learning Engineer Nanodegree. This course covers machine learning from data exploration to model deployment with a focus on using AWS's machine learning capabilities as well as software engineering fundamentals useful for any aspiring data scientist. The culmination of this course is a captone project where I will use all of the skills learned to create, train and deploy a model of my own interest using AWS which will be hosted in a web application which I will build.
 
 # Content
 
